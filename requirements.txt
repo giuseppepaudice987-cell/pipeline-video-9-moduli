@@ -1,0 +1,2 @@
+# Settings: Internet ON · Accelerator GPU T4 x2 · Environment: latest
+!pip install -q -U "diffusers>=0.31" transformers accelerate safetensors
